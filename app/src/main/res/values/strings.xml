@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tumblr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- login acitivity -->
+    <string name="login_login">Login</string>
+    <string name="login_email_hint">User nickname</string>
+    <!-- post list activity -->
+    <string name="toolbar_post_list">Posts</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Material design theme colors -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF80AB</color>
+    <color name="windowBackground">#C5CAE9</color>
+
+    <color name="grey_text_color">#FF666666</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="white_text_color">#FFFFFFFF</color>
+
+</resources>
